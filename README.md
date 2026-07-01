@@ -9,7 +9,8 @@ Este proyecto consiste en el diseño, implementación y explotación de una base
 ## 📊 Modelo de Datos (DER)
 El sistema cuenta con un modelo robusto que gestiona clientes, sucursales, empleados, proveedores, categorías, productos, órdenes de compra y movimientos de stock.
 
-![Diagrama de Entidad Relación](img/diagrama%20ER.png)
+![Diagrama de Entidad Relación]<img width="557" height="1241" alt="diagrama ER" src="https://github.com/user-attachments/assets/c84bc3ee-4afe-4533-8146-debd32180e43" />
+
 
 ## 💡 Funcionalidades Destacadas del Proyecto
 
